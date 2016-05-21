@@ -1,19 +1,7 @@
-Updated Image: https://www.dropbox.com/s/v2qdzkj5qx0pkl0/ScriptaV042414.img.zip
-
-Added donation links
-
-Watchdog fix
-
-Graph fix coded into rc.local startup routine. This should be a permanent fix to graph issues
-
-Scripta- LTC address set as default mining pool
 
 Note: The Gridseed clock option is set by default at 875. This does produce slightly higher hardware errors, but in the long term the increased hashrate outperforms the subsequent HW errors, especially when mining lower dificulty coins.
 
 ------------------------------------------------------------------------
-4-22-14
-New Image Link: https://www.dropbox.com/s/28u6vtbo3m95fnx/ScriptaGridBeta042114.img.zip
-
 To get the graphs working login to Scripta and run the following command
 ```
 sudo chown root:root /var/spool/cron/crontabs/root
@@ -42,6 +30,8 @@ Known Issues:
 
 If you have found use for this version please consider a donation, as we opted out of building it into the program
 
+                    [ORIGINAL Scripta devs addresses]
+
 BTC: 199GzQnNAs9BBxXSmRxKECNQ1GPF2ZZ55j
 
 LTC: LVmN9MoAbn4hQSJZrzN65oiL7W4SAY9A2q
@@ -57,7 +47,7 @@ The turnkey solution for litecoin mining with raspberry pi and fpga/asic boards
 
 ---=== The easy way ===---
 
-1) Download the full image here http://www.lateralfactory.com/download.php?file=scripta-1_1.tgz
+1) Download the full image here [To be added.]
 
 2) Burn it on a ssd in your favourite way
 
